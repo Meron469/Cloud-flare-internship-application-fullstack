@@ -1,0 +1,6 @@
+name = "meron_site"
+type = "javascript"
+account_id = "73bcb994def3d790ef06eb16256e5ad7"
+workers_dev = true
+route = ""
+zone_id = ""
